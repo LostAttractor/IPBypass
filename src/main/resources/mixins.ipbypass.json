@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "cn.margele.ipbypass.injection.mixins",
+  "refmap": "mixins.ipbypass.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinNetworkManager"
+  ]
+}
